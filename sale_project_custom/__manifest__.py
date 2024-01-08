@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "2EsseTi Sale Project",
+    "name": "Sale Project Custom",
     "summary": "Odoo customization for sales and projects",
     "license": "OPL-1",
     "author": "Niccolò Ciavarella, Giuseppe Zarbo",
